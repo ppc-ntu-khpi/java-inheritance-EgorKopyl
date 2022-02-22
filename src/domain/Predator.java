@@ -6,3 +6,4 @@ public class Predator extends Animal {
         System.out.println("Predator is hunting...");
     }
 }
+
