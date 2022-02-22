@@ -8,6 +8,6 @@
 
 <img src="https://github.com/ppc-ntu-khpi/java-inheritance-EgorKopyl/blob/master/images/DiagramFox.png">
 
-## Результат роботи програми
+## Результат роботи програми:
 
 <img src="https://github.com/ppc-ntu-khpi/java-inheritance-EgorKopyl/blob/master/images/RunFox.png">
