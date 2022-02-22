@@ -1,6 +1,6 @@
 # Практична робота "Реалізація успадкування"
 
-Тварину для цієї практичної роботи я взяв лисцию(Fox)
+Тварину для цієї практичної роботи я взяв лисицю(Fox)
 
 <img src="https://github.com/ppc-ntu-khpi/java-inheritance-EgorKopyl/blob/master/images/Fox.jpg">
 
