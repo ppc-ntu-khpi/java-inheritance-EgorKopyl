@@ -25,7 +25,7 @@ public class Fox extends Predator {
     }
     @Override
     public void hunt() {
-        System.out.println("Cat hunting for a mouse, rebbit and chicken");
+        System.out.println("Fox hunting for a mouse, rebbit and chicken");
     }
     @Override
     public String toString() {
