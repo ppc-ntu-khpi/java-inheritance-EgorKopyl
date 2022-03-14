@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_dir_68ea1027a0924c7ccda26f29ab673fa1" xml:lang="en-US">
+<title>D:/MyAnimals/src Directory Reference</title>
+<indexterm><primary>D:/MyAnimals/src Directory Reference</primary></indexterm>
+<simplesect>
+    <title>Directories    </title>
+        <itemizedlist>
+            <listitem><para>directory <link linkend="_dir_cc38c073573f86eb456790339576982c">domain</link></para>
+</listitem>
+            <listitem><para>directory <link linkend="_dir_40de3ed9642d89efd285d0c218be7075">test</link></para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+</section>

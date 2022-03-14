@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_classdomain_1_1_animal" xml:lang="en-US">
+<title>domain.Animal Class Reference</title>
+<indexterm><primary>domain.Animal</primary></indexterm>
+<para>Inheritance diagram for domain.Animal:    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classdomain_1_1_animal.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+<simplesect>
+    <title>Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para><link linkend="_classdomain_1_1_animal_1acfbf1405e335fb7887eba1f22cf484c2">Animal</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_classdomain_1_1_animal_1ad6c346c1eae765c2a767b8ea7d027151">Eat</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_classdomain_1_1_animal_1a0070dca2022620de6da5c005e04609a6">speak</link> ()</para>
+</listitem>
+            <listitem><para>String <link linkend="_classdomain_1_1_animal_1a1b29e1c4522c9593ac169ea0b113fa07">toString</link> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Detailed Description</title>
+
+<para>The class <link linkend="_classdomain_1_1_animal">Animal</link> </para>
+<para>
+Definition at line <link linkend="__animal_8java_source_1l00007">7</link> of file <link linkend="__animal_8java_source">Animal.java</link>.</para>
+</section>
+<section>
+<title>Constructor &amp; Destructor Documentation</title>
+<anchor xml:id="_classdomain_1_1_animal_1acfbf1405e335fb7887eba1f22cf484c2"/><section>
+    <title>Animal()</title>
+<indexterm><primary>Animal</primary><secondary>domain.Animal</secondary></indexterm>
+<indexterm><primary>domain.Animal</primary><secondary>Animal</secondary></indexterm>
+<para><computeroutput>domain.Animal.Animal ( )</computeroutput></para>
+<para>It is a constructor. </para>
+<para>
+Definition at line <link linkend="__animal_8java_source_1l00021">21</link> of file <link linkend="__animal_8java_source">Animal.java</link>.</para>
+</section>
+</section>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_classdomain_1_1_animal_1ad6c346c1eae765c2a767b8ea7d027151"/><section>
+    <title>Eat()</title>
+<indexterm><primary>Eat</primary><secondary>domain.Animal</secondary></indexterm>
+<indexterm><primary>domain.Animal</primary><secondary>Eat</secondary></indexterm>
+<para><computeroutput>void domain.Animal.Eat ( )</computeroutput></para>
+<para>Eat </para>
+<para>
+Definition at line <link linkend="__animal_8java_source_1l00034">34</link> of file <link linkend="__animal_8java_source">Animal.java</link>.</para>
+</section>
+<anchor xml:id="_classdomain_1_1_animal_1a0070dca2022620de6da5c005e04609a6"/><section>
+    <title>speak()</title>
+<indexterm><primary>speak</primary><secondary>domain.Animal</secondary></indexterm>
+<indexterm><primary>domain.Animal</primary><secondary>speak</secondary></indexterm>
+<para><computeroutput>void domain.Animal.speak ( )</computeroutput></para>
+<para>Speak </para>
+<para>
+Reimplemented in <link linkend="_classdomain_1_1_fox_1a909dd376df470087d05d8469a10313c7">domain.Fox</link>.</para>
+<para>
+Definition at line <link linkend="__animal_8java_source_1l00045">45</link> of file <link linkend="__animal_8java_source">Animal.java</link>.</para>
+</section>
+<anchor xml:id="_classdomain_1_1_animal_1a1b29e1c4522c9593ac169ea0b113fa07"/><section>
+    <title>toString()</title>
+<indexterm><primary>toString</primary><secondary>domain.Animal</secondary></indexterm>
+<indexterm><primary>domain.Animal</primary><secondary>toString</secondary></indexterm>
+<para><computeroutput>String domain.Animal.toString ( )</computeroutput></para>
+<para>To string </para>
+<para>
+Reimplemented in <link linkend="_classdomain_1_1_fox_1a3d0d5d6a9abd24c93fd5b5cf5c41e514">domain.Fox</link>.</para>
+<para>
+Definition at line <link linkend="__animal_8java_source_1l00057">57</link> of file <link linkend="__animal_8java_source">Animal.java</link>.</para>
+</section>
+<para>
+The documentation for this class was generated from the following file:</para>
+D:/MyAnimals/src/domain/<link linkend="__animal_8java">Animal.java</link></section>
+</section>

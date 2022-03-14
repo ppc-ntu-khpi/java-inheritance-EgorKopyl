@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="__fox_8java_source" xml:lang="en-US">
+<title>Fox.java</title>
+<indexterm><primary>D:/MyAnimals/src/domain/Fox.java</primary></indexterm>
+Go to the documentation of this file.<programlisting linenumbering="unnumbered"><anchor xml:id="__fox_8java_source_1l00001"/>00001 <emphasis role="keyword">package&#32;</emphasis>domain;
+<anchor xml:id="__fox_8java_source_1l00002"/>00002 
+<anchor xml:id="__fox_8java_source_1l00003"/>00003 
+<anchor xml:id="__fox_8java_source_1l00007"/><link linkend="_classdomain_1_1_fox">00007</link> <emphasis role="keyword">public</emphasis>&#32;<emphasis role="keyword">class&#32;</emphasis><link linkend="_classdomain_1_1_fox">Fox</link>&#32;<emphasis role="keyword">extends</emphasis>&#32;<link linkend="_classdomain_1_1_predator">Predator</link>&#32;{
+<anchor xml:id="__fox_8java_source_1l00008"/>00008 
+<anchor xml:id="__fox_8java_source_1l00009"/>00009 &#32;&#32;&#32;&#32;<emphasis role="keyword">private</emphasis>&#32;String&#32;kind;
+<anchor xml:id="__fox_8java_source_1l00010"/>00010 
+<anchor xml:id="__fox_8java_source_1l00011"/>00011 
+<anchor xml:id="__fox_8java_source_1l00021"/><link linkend="_classdomain_1_1_fox_1a7d772c8f6f40ca7016b35240ef659b31">00021</link> &#32;&#32;&#32;&#32;<emphasis role="keyword">public</emphasis>&#32;<link linkend="_classdomain_1_1_fox_1a7d772c8f6f40ca7016b35240ef659b31">Fox</link>(String&#32;name&#32;,<emphasis role="keywordtype">int</emphasis>&#32;weight,&#32;<emphasis role="keywordtype">int</emphasis>&#32;age,&#32;String&#32;kind)&#32;{&#32;
+<anchor xml:id="__fox_8java_source_1l00022"/>00022 
+<anchor xml:id="__fox_8java_source_1l00023"/>00023 &#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;this.name=name;
+<anchor xml:id="__fox_8java_source_1l00024"/>00024 &#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;this.weight=weight;
+<anchor xml:id="__fox_8java_source_1l00025"/>00025 &#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;this.age=age;
+<anchor xml:id="__fox_8java_source_1l00026"/>00026 &#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;this.kind=kind;
+<anchor xml:id="__fox_8java_source_1l00027"/>00027 &#32;&#32;&#32;&#32;}
+<anchor xml:id="__fox_8java_source_1l00028"/>00028 
+<anchor xml:id="__fox_8java_source_1l00029"/>00029 
+<anchor xml:id="__fox_8java_source_1l00035"/><link linkend="_classdomain_1_1_fox_1a295adce916ea28e4ba4a99878a6681ec">00035</link> &#32;&#32;&#32;&#32;<emphasis role="keyword">public</emphasis>&#32;<link linkend="_classdomain_1_1_fox_1a295adce916ea28e4ba4a99878a6681ec">Fox</link>()&#32;{&#32;
+<anchor xml:id="__fox_8java_source_1l00036"/>00036 
+<anchor xml:id="__fox_8java_source_1l00037"/>00037 &#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;<emphasis role="keyword">this</emphasis>(<emphasis role="stringliteral">&quot;Mery&quot;</emphasis>,8,3,<emphasis role="stringliteral">&quot;just&#32;a&#32;fox&quot;</emphasis>);
+<anchor xml:id="__fox_8java_source_1l00038"/>00038 &#32;&#32;&#32;&#32;}
+<anchor xml:id="__fox_8java_source_1l00039"/>00039 
+<anchor xml:id="__fox_8java_source_1l00046"/><link linkend="_classdomain_1_1_fox_1a0b3df4f2fa1ebc4b003ef7b3d6b698fd">00046</link> &#32;&#32;&#32;&#32;<emphasis role="keyword">public</emphasis>&#32;<link linkend="_classdomain_1_1_fox_1a0b3df4f2fa1ebc4b003ef7b3d6b698fd">Fox</link>(String&#32;name)&#32;{&#32;
+<anchor xml:id="__fox_8java_source_1l00047"/>00047 
+<anchor xml:id="__fox_8java_source_1l00048"/>00048 &#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;<emphasis role="keyword">this</emphasis>(name,8,3,<emphasis role="stringliteral">&quot;just&#32;a&#32;fox&quot;</emphasis>);
+<anchor xml:id="__fox_8java_source_1l00049"/>00049 &#32;&#32;&#32;&#32;}
+<anchor xml:id="__fox_8java_source_1l00050"/>00050 
+<anchor xml:id="__fox_8java_source_1l00056"/><link linkend="_classdomain_1_1_fox_1a529ee8331a9ac766941fa6e6d0e64393">00056</link> &#32;&#32;&#32;&#32;<emphasis role="keyword">public</emphasis>&#32;<emphasis role="keywordtype">void</emphasis>&#32;<link linkend="_classdomain_1_1_fox_1a529ee8331a9ac766941fa6e6d0e64393">Fox</link>()&#32;{&#32;
+<anchor xml:id="__fox_8java_source_1l00057"/>00057 
+<anchor xml:id="__fox_8java_source_1l00058"/>00058 &#32;&#32;&#32;&#32;}
+<anchor xml:id="__fox_8java_source_1l00059"/>00059 
+<anchor xml:id="__fox_8java_source_1l00060"/>00060 
+<anchor xml:id="__fox_8java_source_1l00066"/><link linkend="_classdomain_1_1_fox_1a36b2948bc78423291086d29e4a0d04a2">00066</link> &#32;&#32;&#32;&#32;<emphasis role="keyword">public</emphasis>&#32;<emphasis role="keywordtype">void</emphasis>&#32;<link linkend="_classdomain_1_1_fox_1a36b2948bc78423291086d29e4a0d04a2">play</link>()&#32;{&#32;
+<anchor xml:id="__fox_8java_source_1l00067"/>00067 
+<anchor xml:id="__fox_8java_source_1l00068"/>00068 &#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;System.out.println(<emphasis role="stringliteral">&quot;The&#32;fox&#32;plays&#32;with&#32;fox&#32;cubs&quot;</emphasis>);
+<anchor xml:id="__fox_8java_source_1l00069"/>00069 &#32;&#32;&#32;&#32;}
+<anchor xml:id="__fox_8java_source_1l00070"/>00070 &#32;&#32;&#32;&#32;@Override
+<anchor xml:id="__fox_8java_source_1l00071"/>00071 
+<anchor xml:id="__fox_8java_source_1l00077"/><link linkend="_classdomain_1_1_fox_1a4ea212d18cd58e1d98882e80ac8a6081">00077</link> &#32;&#32;&#32;&#32;<emphasis role="keyword">public</emphasis>&#32;<emphasis role="keywordtype">void</emphasis>&#32;<link linkend="_classdomain_1_1_fox_1a4ea212d18cd58e1d98882e80ac8a6081">hunt</link>()&#32;{&#32;
+<anchor xml:id="__fox_8java_source_1l00078"/>00078 
+<anchor xml:id="__fox_8java_source_1l00079"/>00079 &#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;System.out.println(<emphasis role="stringliteral">&quot;Fox&#32;hunting&#32;for&#32;a&#32;mouse,&#32;rebbit&#32;and&#32;chicken&quot;</emphasis>);
+<anchor xml:id="__fox_8java_source_1l00080"/>00080 &#32;&#32;&#32;&#32;}
+<anchor xml:id="__fox_8java_source_1l00081"/>00081 &#32;&#32;&#32;&#32;@Override
+<anchor xml:id="__fox_8java_source_1l00082"/>00082 
+<anchor xml:id="__fox_8java_source_1l00089"/><link linkend="_classdomain_1_1_fox_1a3d0d5d6a9abd24c93fd5b5cf5c41e514">00089</link> &#32;&#32;&#32;&#32;<emphasis role="keyword">public</emphasis>&#32;String&#32;<link linkend="_classdomain_1_1_fox_1a3d0d5d6a9abd24c93fd5b5cf5c41e514">toString</link>()&#32;{&#32;
+<anchor xml:id="__fox_8java_source_1l00090"/>00090 
+<anchor xml:id="__fox_8java_source_1l00091"/>00091 &#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;<emphasis role="keywordflow">return</emphasis>&#32;super.toString()+<emphasis role="stringliteral">&quot;\nKind:\t&quot;</emphasis>+this.kind+<emphasis role="stringliteral">&quot;\n\nThis&#32;is&#32;Fox!&quot;</emphasis>;
+<anchor xml:id="__fox_8java_source_1l00092"/>00092 &#32;&#32;&#32;&#32;}
+<anchor xml:id="__fox_8java_source_1l00093"/>00093 
+<anchor xml:id="__fox_8java_source_1l00094"/>00094 &#32;&#32;&#32;&#32;@Override
+<anchor xml:id="__fox_8java_source_1l00095"/>00095 
+<anchor xml:id="__fox_8java_source_1l00101"/><link linkend="_classdomain_1_1_fox_1a909dd376df470087d05d8469a10313c7">00101</link> &#32;&#32;&#32;&#32;<emphasis role="keyword">public</emphasis>&#32;<emphasis role="keywordtype">void</emphasis>&#32;<link linkend="_classdomain_1_1_fox_1a909dd376df470087d05d8469a10313c7">speak</link>()&#32;{&#32;
+<anchor xml:id="__fox_8java_source_1l00102"/>00102 
+<anchor xml:id="__fox_8java_source_1l00103"/>00103 &#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;System.out.println(<emphasis role="stringliteral">&quot;Yap-yap-yap!Yap-yap-yap!&quot;</emphasis>);
+<anchor xml:id="__fox_8java_source_1l00104"/>00104 &#32;&#32;&#32;&#32;}
+<anchor xml:id="__fox_8java_source_1l00105"/>00105 
+<anchor xml:id="__fox_8java_source_1l00106"/>00106 
+<anchor xml:id="__fox_8java_source_1l00112"/><link linkend="_classdomain_1_1_fox_1a4a1bf1f3830b5d52d0ec50fb2279930a">00112</link> &#32;&#32;&#32;&#32;<emphasis role="keyword">public</emphasis>&#32;<emphasis role="keywordtype">void</emphasis>&#32;<link linkend="_classdomain_1_1_fox_1a4a1bf1f3830b5d52d0ec50fb2279930a">eat</link>()&#32;{&#32;
+<anchor xml:id="__fox_8java_source_1l00113"/>00113 
+<anchor xml:id="__fox_8java_source_1l00114"/>00114 &#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;System.out.println(<emphasis role="stringliteral">&quot;Fox&#32;eats&#32;meat&#32;and&#32;berries,&#32;and&#32;other&quot;</emphasis>);
+<anchor xml:id="__fox_8java_source_1l00115"/>00115 &#32;&#32;&#32;&#32;}
+<anchor xml:id="__fox_8java_source_1l00116"/>00116 }
+</programlisting></section>
